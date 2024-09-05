@@ -1,4 +1,4 @@
 package com.phong.example.order_service.client;
 
-public interface InventoryClient {
+public class InventoryClient {
 }
